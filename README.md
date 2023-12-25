@@ -21,6 +21,7 @@ npm run dev
 
 ## 🖥️ Preview
 
+[https://alicjalysien.github.io/kitchen-shop](https://alicjalysien.github.io/kitchen-shop/)
 ![Image - preview of my page](./public/readme-example.png)
 
 
