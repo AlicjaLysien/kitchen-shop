@@ -14,7 +14,7 @@ _Project contains only one styled page._
 
 To run the project locally:
 
-``sh
+``
 npm run dev
 ``
 
