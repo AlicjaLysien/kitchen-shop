@@ -9,6 +9,7 @@ _Project contains only one styled page._
 - Vue
 - Typescript
 - Tailwind.css
+- Eslint
 
 ## ⚙️ Scripts
 
@@ -21,3 +22,7 @@ npm run dev
 ## 🖥️ Preview
 
 ![Image - preview of my page](./public/readme-example.png)
+
+
+## Sources
+Free photos are from [Unsplash](https://unsplash.com/)
