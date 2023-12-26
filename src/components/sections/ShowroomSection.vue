@@ -8,7 +8,7 @@ defineProps<{
 
 <template>
     <section class="my-6">
-        <h2 class="text-xl">
+        <h2 class="text-xl text-center text-grey-700 md:text-4xl">
             Showroom
         </h2>
         <div class="md:flex md:space-x-4 md:justify-between">

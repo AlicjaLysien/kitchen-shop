@@ -8,9 +8,9 @@ defineProps<{
 
 <template>
     <section class="mt-6 flex-1">
-        <h3 class="text-xl text-center text-grey-700 md:text-4xl">
+        <h2 class="text-xl text-center text-grey-700 md:text-4xl">
             {{ title }}
-        </h3>
+        </h2>
         <div class="md:flex md:space-x-4 md:justify-between">
             <CollectionItem v-for="collection in Collections" v-bind:key="collection.name" v-bind:title="collection.name">
                 <template #image>
