@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import HeaderSection from './HeaderSection.vue'
-import CollectionSection from './sections/CollectionSection.vue';
-import ProductSection from './sections/ProductSection.vue';
-import ShowroomSection from './sections/ShowroomSection.vue';
+import CollectionSection from './sections/CollectionSection.vue'
+import ProductSection from './sections/ProductSection.vue'
+import ShowroomSection from './sections/ShowroomSection.vue'
 </script>
 
 <template>
