@@ -14,7 +14,12 @@ const router = createRouter({
       path: '/about',
       name: 'about',
       component: AboutView
-    }
+    },
+    {
+      path: '/:catchAll(.*)',
+      name: 'notfound',
+      component: HomeView
+    },
   ]
 })
 
